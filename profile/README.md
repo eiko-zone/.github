@@ -1,3 +1,3 @@
 ## Welcome to Eiko!
 
-Eiko is a privacy preserving quest platform for web3. 
+Eiko is a privacy preserving quest platform for Web3. 
